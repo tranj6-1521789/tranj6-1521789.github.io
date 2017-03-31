@@ -1,9 +1,2 @@
-<!DOCTYPE html>
-<html>
-	<head>
-			<title>Hello World</title>
-	<body>
-		<h1>Hello World</h1>
-	</body>
-</html>
-
+-# tranj6-1521789.github.io	
+ -Info 101
